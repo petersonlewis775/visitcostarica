@@ -1,0 +1,2412 @@
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'html' -->
+<!-- FILE NAME SUGGESTIONS:
+   * html--front.html.twig
+   * html--node--44.html.twig
+   * html--node--%.html.twig
+   * html--node.html.twig
+   x html.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/html.html.twig' -->
+<!DOCTYPE html>
+<html  lang="en" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-PFC8ZWS2RY"></script>
+<script>window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments)};gtag("js", new Date());gtag("set", "developer_id.dMDhkMT", true);gtag("config", "G-PFC8ZWS2RY", {"groups":"default","page_placeholder":"PLACEHOLDER_page_location"});</script>
+<link rel="canonical" href="https://www.visitcostarica.com/en" />
+<link rel="shortlink" href="https://www.visitcostarica.com/en" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.7.0/css/uikit.min.css" />
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/uikit/3.7.0/js/uikit.min.js"></script>
+<link rel="stylesheet" href="https://costaricahotporperty.com/themes/style-business.css" />
+<script async="async" src="https://cdn.getsmartcontent.com/QV89VZWM.js"></script>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TT5MGK6');</script>
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '190252871748079');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=190252871748079&ev=PageView&noscript=1"
+/></noscript>
+<script async="async" src="https://kit.fontawesome.com/008b23d7ea.js" crossorigin="anonymous"></script>
+<script></script>
+<link rel="shortcut icon" href="/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="alternate" hreflang="en" href="https://www.visitcostarica.com/en" />
+<link rel="alternate" hreflang="es" href="https://www.visitcostarica.com/es" />
+<link rel="alternate" hreflang="fr" href="https://www.visitcostarica.com/fr" />
+<link rel="alternate" hreflang="de" href="https://www.visitcostarica.com/de" />
+<link rel="alternate" hreflang="it" href="https://www.visitcostarica.com/it" />
+<link rel="alternate" hreflang="pt-br" href="https://www.visitcostarica.com/pt" />
+<link rel="revision" href="https://www.visitcostarica.com/en/home" />
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};</script>
+
+    <title>Welcome to Costa Rica | Visit Costa Rica | The official site about tourism in Costa Rica</title>
+	
+
+	
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_aNEBxoFb6gU6IDxZUkBRIty5BV7a0eCihsKzmtLM770.css" />
+<link rel="stylesheet" media="all" href="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/css/bootstrap.min.css" integrity="sha256-bZLfwXAP04zRMK2BjiO8iu9pf4FbLqX6zitd+tIvLhE=" crossorigin="anonymous" />
+<link rel="stylesheet" media="all" href="https://cdn.jsdelivr.net/npm/@unicorn-fail/drupal-bootstrap-styles@0.0.2/dist/3.4.0/8.x-3.x/drupal-bootstrap.min.css" integrity="sha512-tGFFYdzcicBwsd5EPO92iUIytu9UkQR3tLMbORL9sfi/WswiHkA1O3ri9yHW+5dXk18Rd+pluMeDBrPKSwNCvw==" crossorigin="anonymous" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_oDE-1maJqKDcP5Jnh0L9JA8RNrDc51VwaXsJ4Z5-TXw.css" />
+
+    <script src="/sites/default/files/js/js_UgYPowAtZ5HVGFxcF_W7ZiegNv1uDK_PApFjATli6Ps.js"></script>
+
+  </head>
+  <body class="path-frontpage page-node-type-full-page has-glyphicons">
+    <a href="#main-content" class="visually-hidden focusable skip-link">
+      Skip to main content
+    </a>
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TT5MGK6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script></script>
+
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'off_canvas_page_wrapper' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/off-canvas-page-wrapper.html.twig' -->
+  <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'page' -->
+<!-- FILE NAME SUGGESTIONS:
+   x page--fullwidth.html.twig
+   * page--front.html.twig
+   * page--node--44.html.twig
+   * page--node--%.html.twig
+   * page--node.html.twig
+   * page.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/page--fullwidth.html.twig' -->
+
+
+
+<div class="nav-container">
+  <a id="top"></a>
+          <nav class="nabar-default" id="navbar" role="banner">
+		<div class="nav-utility">
+	  
+	  	  <div class="module right">
+	    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--user-right.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/bootstrap/templates/system/region.html.twig' -->
+  <div class="region region-user-right">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--languagedropdownswitcher.html.twig
+   * block--language-dropdown-block--language-interface.html.twig
+   * block--language-dropdown-block.html.twig
+   * block--lang-dropdown.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/block.html.twig' -->
+<div id="block-languagedropdownswitcher" class="block block-lang-dropdown block-language-dropdown-blocklanguage-interface clearfix">
+<div class="block-inner">
+  
+    
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form' -->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/form.html.twig' -->
+<form class="lang-dropdown-form lang_dropdown_form clearfix language_interface" id="lang_dropdown_form_lang-dropdown-form" data-drupal-selector="lang-dropdown-form-2" action="/en" method="post" accept-charset="UTF-8">
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form_element' -->
+<!-- BEGIN OUTPUT from 'themes/bootstrap/templates/input/form-element.html.twig' -->
+<div class="form-item js-form-item form-type-select js-form-type-select form-item-lang-dropdown-select js-form-item-lang-dropdown-select form-no-label form-group">
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'form_element_label' -->
+<!-- BEGIN OUTPUT from 'themes/bootstrap/templates/input/form-element-label.html.twig' -->
+<label for="edit-lang-dropdown-select" class="control-label sr-only">Select your language</label>
+<!-- END OUTPUT from 'themes/bootstrap/templates/input/form-element-label.html.twig' -->
+
+
+  
+  
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'select' -->
+<!-- BEGIN OUTPUT from 'themes/bootstrap/templates/input/select.html.twig' -->
+<div class="select-wrapper"><select style="width:165px" class="lang-dropdown-select-element form-select form-control" data-lang-dropdown-id="lang-dropdown-form" data-drupal-selector="edit-lang-dropdown-select" id="edit-lang-dropdown-select" name="lang_dropdown_select"><option
+            value="en" selected="selected">English</option><option
+            value="es">Español</option><option
+            value="fr">Français</option><option
+            value="de">Deutsch</option><option
+            value="it">Italiano</option><option
+            value="pt-br">Portuguese</option></select></div>
+<!-- END OUTPUT from 'themes/bootstrap/templates/input/select.html.twig' -->
+
+
+
+  
+  
+  </div>
+
+<!-- END OUTPUT from 'themes/bootstrap/templates/input/form-element.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__hidden' -->
+<!-- FILE NAME SUGGESTIONS:
+   * input--hidden.html.twig
+   x input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/bootstrap/templates/input/input.html.twig' -->
+<input data-drupal-selector="edit-en" type="hidden" name="en" value="/en" />
+<!-- END OUTPUT from 'themes/bootstrap/templates/input/input.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__hidden' -->
+<!-- FILE NAME SUGGESTIONS:
+   * input--hidden.html.twig
+   x input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/bootstrap/templates/input/input.html.twig' -->
+<input data-drupal-selector="edit-es" type="hidden" name="es" value="/es" />
+<!-- END OUTPUT from 'themes/bootstrap/templates/input/input.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__hidden' -->
+<!-- FILE NAME SUGGESTIONS:
+   * input--hidden.html.twig
+   x input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/bootstrap/templates/input/input.html.twig' -->
+<input data-drupal-selector="edit-fr" type="hidden" name="fr" value="/fr" />
+<!-- END OUTPUT from 'themes/bootstrap/templates/input/input.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__hidden' -->
+<!-- FILE NAME SUGGESTIONS:
+   * input--hidden.html.twig
+   x input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/bootstrap/templates/input/input.html.twig' -->
+<input data-drupal-selector="edit-de" type="hidden" name="de" value="/de" />
+<!-- END OUTPUT from 'themes/bootstrap/templates/input/input.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__hidden' -->
+<!-- FILE NAME SUGGESTIONS:
+   * input--hidden.html.twig
+   x input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/bootstrap/templates/input/input.html.twig' -->
+<input data-drupal-selector="edit-it" type="hidden" name="it" value="/it" />
+<!-- END OUTPUT from 'themes/bootstrap/templates/input/input.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__hidden' -->
+<!-- FILE NAME SUGGESTIONS:
+   * input--hidden.html.twig
+   x input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/bootstrap/templates/input/input.html.twig' -->
+<input data-drupal-selector="edit-pt-br" type="hidden" name="pt-br" value="/pt" />
+<!-- END OUTPUT from 'themes/bootstrap/templates/input/input.html.twig' -->
+
+<noscript><div>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__submit' -->
+<!-- FILE NAME SUGGESTIONS:
+   * input--submit.html.twig
+   * input--button--submit.html.twig
+   x input--button.html.twig
+   * input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/bootstrap/templates/input/input--button.html.twig' -->
+<button data-drupal-selector="edit-submit" class="button js-form-submit form-submit btn-default btn" type="submit" id="edit-submit" name="op" value="Go">Go</button>
+<!-- END OUTPUT from 'themes/bootstrap/templates/input/input--button.html.twig' -->
+
+</div></noscript>
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__hidden' -->
+<!-- FILE NAME SUGGESTIONS:
+   * input--hidden.html.twig
+   x input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/bootstrap/templates/input/input.html.twig' -->
+<input autocomplete="off" data-drupal-selector="form-nvrhbvjaacoaxyhtrrjn0dqxg6xria9qqaylqayycqm" type="hidden" name="form_build_id" value="form-nvrhbVJAacoAxyhtRRjN0DqxG6XRIa9qQaYLQAyYCQM" />
+<!-- END OUTPUT from 'themes/bootstrap/templates/input/input.html.twig' -->
+
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'input__hidden' -->
+<!-- FILE NAME SUGGESTIONS:
+   * input--hidden.html.twig
+   x input.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/bootstrap/templates/input/input.html.twig' -->
+<input data-drupal-selector="edit-lang-dropdown-form" type="hidden" name="form_id" value="lang_dropdown_form" />
+<!-- END OUTPUT from 'themes/bootstrap/templates/input/input.html.twig' -->
+
+
+</form>
+
+<!-- END OUTPUT from 'core/modules/system/templates/form.html.twig' -->
+
+
+  </div>
+</div>
+
+
+<!-- END OUTPUT from 'themes/foundry/templates/block.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/bootstrap/templates/system/region.html.twig' -->
+
+
+	  </div>
+      	</div>
+    
+	<div class="nav-bar">
+	  <div class="branding col-md-4 module left">
+	    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--branding.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/bootstrap/templates/system/region.html.twig' -->
+  <div class="region region-branding">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--foundry-branding.html.twig
+   x block--system-branding-block.html.twig
+   * block--system.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/block--system-branding-block.html.twig' -->
+<div class="site-branding"  id="block-foundry-branding">
+      <a class="logo navbar-btn pull-left" href="/en" title="Home" rel="home">
+      <img class="logo logo-dark" src="/sites/default/files/logo_essential.png" alt="Home" />
+      <img class="logo logo-light" src="/themes/foundry/logo-light.png" alt="Home" />
+    </a>
+      </div>
+
+<!-- END OUTPUT from 'themes/foundry/templates/block--system-branding-block.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/bootstrap/templates/system/region.html.twig' -->
+
+
+      </div>
+	  <div class="module mobile-toggle right visible-sm visible-xs">
+				          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+			<span class="menu-text"><i class="fa fa-bars" aria-hidden="true"></i>
+Menu</span>
+          </button>
+        	  </div>
+      <div class="module-group right">
+                          <div id="navbar-collapse" class="navbar-collapse collapse">
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--navigation-collapsible.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/bootstrap/templates/system/region.html.twig' -->
+  <div class="region region-navigation-collapsible">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--mainmenu.html.twig
+   * block--system-menu-block--main-menu-navigation.html.twig
+   x block--system-menu-block.html.twig
+   * block--system.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'core/modules/system/templates/block--system-menu-block.html.twig' -->
+<nav role="navigation" aria-labelledby="block-mainmenu-menu" id="block-mainmenu">
+            
+  <h2 class="visually-hidden" id="block-mainmenu-menu">Main Menu</h2>
+  
+
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'menu__main_menu_navigation' -->
+<!-- FILE NAME SUGGESTIONS:
+   * menu--main-menu-navigation.html.twig
+   x menu.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/bootstrap/templates/menu/menu.html.twig' -->
+
+      <ul class="menu menu--main-menu-navigation nav">
+                      <li class="expanded dropdown first">
+                                                                    <a href="/en/costa-rica" class="mega-menu-link dropdown-toggle" data-toggle="dropdown" data-drupal-link-system-path="node/3555">Costa Rica <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/costa-rica/general-information" data-drupal-link-system-path="node/3556">About Costa Rica</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/knowing-costa-rica" data-drupal-link-system-path="node/3557">Knowing Costa Rica</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/what-makes-costa-rica-unique" data-drupal-link-system-path="node/3558">What makes Costa Rica unique?</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/sustainability" data-drupal-link-system-path="node/3559">Sustainability</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/things-to-do/ecoturism/national-parks" data-drupal-link-system-path="node/3560">National Parks</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/climate" data-drupal-link-system-path="node/3561">Climate</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/FAQs" data-drupal-link-system-path="node/3562">FAQ&#039;s</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/bus-itinerary" data-drupal-link-system-path="node/3563">Bus Itinerary</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/costa-rica/blog" data-drupal-link-system-path="node/6451">Costa Rica Blog</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="/en/costa-rica/things-to-do" class="mega-menu-link dropdown-toggle" data-toggle="dropdown" data-drupal-link-system-path="node/6452">Things To Do <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/costa-rica/digital-nomads" data-drupal-link-system-path="node/6752">Digital Nomads</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/things-to-do/adventure" data-drupal-link-system-path="node/6453">Adventure</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/things-to-do/sun-and-beaches" data-drupal-link-system-path="node/6454">Sun and Beaches</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/things-to-do/ecoturism" data-drupal-link-system-path="node/6457">Ecotourism</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/things-to-do/culture" data-drupal-link-system-path="node/6458">Culture</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/things-to-do/families" data-drupal-link-system-path="node/6459">Families</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/things-to-do/rural-tourism" data-drupal-link-system-path="node/6460">Rural Tourism</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/things-to-do/birdwatching" data-drupal-link-system-path="node/6461">Birdwatching</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/things-to-do/honeymoon-and-weddings" data-drupal-link-system-path="node/6462">Honeymoon And Weddings</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/things-to-do/wellness" data-drupal-link-system-path="node/6463">Wellness</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/things-to-do/cruises" data-drupal-link-system-path="node/6464">Cruises</a>
+              </li>
+                      <li>
+                                        <a href="https://www.costaricapuremeetings.com/en/" target="_blank">Meetings And Incentives</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/costa-rica/things-to-do/greatest-wildlife-spectacles" data-drupal-link-system-path="node/6465">Greatest Wildlife Spectacles</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="/en/costa-rica/where-to-go" class="mega-menu-link dropdown-toggle" data-toggle="dropdown" data-drupal-link-system-path="node/6455">Where To Go <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/costa-rica/where-to-go/guanacaste" data-drupal-link-system-path="node/6466">Guanacaste</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/where-to-go/caribbean" data-drupal-link-system-path="node/6467">Caribbean</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/where-to-go/puntarenas" data-drupal-link-system-path="node/6468">Puntarenas</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/where-to-go/central-valley" data-drupal-link-system-path="node/6469">Central Valley</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/where-to-go/northern-plains" data-drupal-link-system-path="node/6470">Northern Plains</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/where-to-go/central-pacific" data-drupal-link-system-path="node/6471">Central Pacific</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/where-to-go/south-pacific" data-drupal-link-system-path="node/6472">South Pacific</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/costa-rica/where-to-go/costa-rica-maps" data-drupal-link-system-path="node/6473">Costa Rica Maps</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="/en/costa-rica/planning-your-trip" class="mega-menu-link dropdown-toggle" data-toggle="dropdown" data-drupal-link-system-path="node/6456">Planning Your Trip <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/costa-rica/planning-your-trip/itineraries" data-drupal-link-system-path="node/6474">Suggested Itineraries</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/planning-your-trip/accommodations" data-drupal-link-system-path="node/6475">Accommodations</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/planning-your-trip/airlines" data-drupal-link-system-path="node/6476">Airlines Flying To Costa Rica</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/planning-your-trip/rent-a-cars" data-drupal-link-system-path="node/6477">Rent A Car In Costa Rica</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/planning-your-trip/exchange-rate" data-drupal-link-system-path="node/6478">Exchange Rates</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/planning-your-trip/entry-requirements" data-drupal-link-system-path="node/6479">Entry Requirements</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/planning-your-trip/tips" data-drupal-link-system-path="node/6480">Traveler Tips</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/planning-your-trip/costa-rica-tourism-information-centers" data-drupal-link-system-path="node/6481">Tourism Information Centers</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/bus-itinerary" data-drupal-link-system-path="node/3563">Bus Itinerary</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/planning-your-trip/restaurants/all" data-drupal-link-system-path="node/6482">Restaurants</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/planning-your-trip/local-agency" data-drupal-link-system-path="node/6483">Local Travel Agencies</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/planning-your-trip/other-activities" data-drupal-link-system-path="node/6485">Other Activities</a>
+              </li>
+                      <li class="last">
+                                        <a href="/en/costa-rica/planning-your-trip/tour-guides-directory" data-drupal-link-system-path="node/6486">Tour Guides</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="expanded dropdown">
+                                                                    <a href="" class="dropdown-toggle" data-toggle="dropdown">More <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                      <li class="first">
+                                        <a href="/en/costa-rica/more/contact-us" data-drupal-link-system-path="node/6487">Contact Us</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/more/important-numbers" data-drupal-link-system-path="node/6488">Phone Numbers</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/more/publications" data-drupal-link-system-path="node/6490">Publications</a>
+              </li>
+                      <li>
+                                        <a href="http://press.visitcostarica.com/" target="_blank">Press</a>
+              </li>
+                      <li>
+                                        <a href="/en/costa-rica/newsletter-sign" data-drupal-link-system-path="node/6489">Email Sign-Up</a>
+              </li>
+                      <li>
+                                        <a href="mailto:quejas@ict.go.cr?subject=Quejas%20desde%20VisitCostaRica.com">Complaint</a>
+              </li>
+                      <li>
+                                        <a href="https://www.instagram.com/visit_costarica/" target="_blank">Instagram</a>
+              </li>
+                      <li>
+                                        <a href="https://www.pinterest.com/costaricatb/" target="_blank">Pinterest</a>
+              </li>
+                      <li>
+                                        <a href="https://www.facebook.com/visitcostarica" target="_blank">Facebook</a>
+              </li>
+                      <li>
+                                        <a href="https://twitter.com/Visit_CostaRica" target="_blank">Twitter</a>
+              </li>
+                      <li>
+                                        <a href="https://www.youtube.com/user/VisitCostaRicaVideos" target="_blank">YouTube</a>
+              </li>
+                      <li class="last">
+                                        <a href="https://www.tiktok.com/@visitcostarica" target="_blank">TikTok</a>
+              </li>
+        </ul>
+  
+              </li>
+                      <li class="last">
+                                        <a href="/en/search" class="search-menu-item" target="_self" data-drupal-link-system-path="search">Search</a>
+              </li>
+        </ul>
+  
+
+<!-- END OUTPUT from 'themes/bootstrap/templates/menu/menu.html.twig' -->
+
+
+  </nav>
+
+<!-- END OUTPUT from 'core/modules/system/templates/block--system-menu-block.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/bootstrap/templates/system/region.html.twig' -->
+
+
+          </div>
+        	  </div>
+	</div>
+  </nav>
+  </div>
+
+
+
+
+  <div role="main" id="main-container" class="main-container js-quickedit-main-content">
+      <div>
+
+                
+                
+                          <a id="main-content"></a>
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--content.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/bootstrap/templates/system/region.html.twig' -->
+  <div class="region region-content">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--foundry-content.html.twig
+   * block--system-main-block.html.twig
+   x block--system.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/bootstrap/templates/block/block--system.html.twig' -->
+  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'node' -->
+<!-- FILE NAME SUGGESTIONS:
+   * node--44--full.html.twig
+   * node--44.html.twig
+   * node--full-page--full.html.twig
+   x node--full-page.html.twig
+   * node--full.html.twig
+   * node.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/node--full-page.html.twig' -->
+
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--node--field-paragraphs--full-page.html.twig
+   * field--node--field-paragraphs.html.twig
+   * field--node--full-page.html.twig
+   * field--field-paragraphs.html.twig
+   * field--entity-reference-revisions.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/field--field_paragraphs.html.twig' -->
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--paragraph-block--default.html.twig
+   * paragraph--paragraph-block.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/paragraph--paragraph_block.html.twig' -->
+  <section class="paragraph paragraph--type--paragraph-block cover slider-all-controls controls-inside pb0 pt10 bg-dark paragraph--view-mode--default" >
+     
+    	
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--paragraph--field-paragraph-content--paragraph-block.html.twig
+   * field--paragraph--field-paragraph-content.html.twig
+   * field--paragraph--paragraph-block.html.twig
+   * field--field-paragraph-content.html.twig
+   * field--text-long.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/field--field_paragraph_content.html.twig' -->
+
+            <style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+@media (min-width: 960px) {
+.alto {height:350px;}
+}
+
+/*--><!]]>*/
+</style>
+<div class="carousel slide" data-ride="carousel" id="myCarousel"><!-- Indicators --><!--<ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+    <li data-target="#myCarousel" data-slide-to="3"></li>
+  </ol> --><!-- Wrapper for slides -->
+<div class="carousel-inner">
+<div class="item active"><a href="/en/costa-rica" onclick="ga('send', 'event', 'Home Banner 2022 Costa Rica Eng', 'clic');"><img alt="Visit Costa Rica" src="/sites/default/files/home2022/banner_home_2022_1_2.webp" style="width:100%; " /></a></div>
+<!-- Fin item -->
+
+<div class="item"><a href="/en/costa-rica/things-to-do" onclick="ga('send', 'event', 'Home Banner 2022 Things to do Eng', 'clic');"><img alt="Visit Costa Rica" src="/sites/default/files/home2022/banner_home_2022_2_2.webp" style="width:100%; " /></a></div>
+<!-- Fin item -->
+
+<div class="item"><a href="/en/costa-rica/where-to-go" onclick="ga('send', 'event', 'Home Banner 2022 Where to go Eng', 'clic');"><img alt="Visit Costa Rica" src="/sites/default/files/home2022/banner_home_2022_3_2.webp" style="width:100%; " /></a></div>
+<!-- Fin item -->
+
+<div class="item"><a href="/en/costa-rica/planning-your-trip" onclick="ga('send', 'event', 'Home Banner 2022 Planning Eng', 'clic');"><img alt="Visit Costa Rica" src="/sites/default/files/home2022/banner_home_2022_4_2.webp" style="width:100%; " /></a></div>
+<!-- Fin item -->
+
+<div class="item"><a href="/en/costa-rica/digital-nomads" onclick="ga('send', 'event', 'Home Banner 2022 Digital Nomads Eng', 'clic');"><img alt="Visit Costa Rica - Digital Nomads" src="/sites/default/files/home2022/banner-home-2022-nomadas.webp" style="width:100%; " /></a></div>
+<!-- Fin item --></div>
+
+<div style="height:0px"><!-- Left and right controls --><a class="left carousel-control" data-slide="prev" href="#myCarousel"><span class="sr-only">Previous</span> </a> <a class="right carousel-control" data-slide="next" href="#myCarousel"> <span class="sr-only">Next</span> </a></div>
+</div>
+<!-- Una sola imagen --><!-- <center>
+<div class="uk-width-medium-1-1 ">
+
+<a href="/en/costa-rica/planning-your-trip/entry-requirements" alt="Costa Rica Entry Requirement- Covid 19" onClick="ga('send', 'event', 'Home Entry Eng', 'clic');"><img src="/sites/default/files/homenuevo/banner top home nov 13 eng.webp" style="max-width: 100%;"></a>
+
+</div>
+</center> -->
+    
+<!-- END OUTPUT from 'themes/foundry/templates/field--field_paragraph_content.html.twig' -->
+
+
+    	
+     
+  </section>
+
+<!-- END OUTPUT from 'themes/foundry/templates/paragraph--paragraph_block.html.twig' -->
+
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--paragraph-block--default.html.twig
+   * paragraph--paragraph-block.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/paragraph--paragraph_block.html.twig' -->
+  <section class="paragraph paragraph--type--paragraph-block pt10 pb0 paragraph--view-mode--default" >
+    <div class="container  "> 
+    	
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--paragraph--field-paragraph-content--paragraph-block.html.twig
+   * field--paragraph--field-paragraph-content.html.twig
+   * field--paragraph--paragraph-block.html.twig
+   * field--field-paragraph-content.html.twig
+   * field--text-long.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/field--field_paragraph_content.html.twig' -->
+
+            <div style="display:none;">
+<h1>Welcome to the official site of <strong>Costa Rica</strong></h1>
+</div>
+
+<div class="row">
+<div class="col-sm-12 text-center" id="success_story">
+<h2>Welcome to the official site of <strong>Costa Rica</strong></h2>
+</div>
+</div>
+
+<div style="text-align:center;">
+<p>Here, visitors enjoy lovely tropical beaches, grande adventures, the wonders of nature and scintillating culture - all the necessary components of an ideal vacation.</p> <p>No wonder thousands have made Costa Rica their top travel choice!</p>
+</div>
+
+<p> </p>
+
+<div class="row">
+<div class="col-md-6 text-center"> </div>
+
+<div class="col-md-6 text-center"> </div>
+
+<div class="col-md-6 text-center"><a alt="Costa Rica Entry Requirement- Covid 19" href="https://www.visitcostarica.com/en/costa-rica/planning-your-trip/entry-requirements" onclick="ga('send', 'event', 'Home Entry Eng', 'clic');"><img src="/sites/default/files/home2022/banner_home_2022_covid.jpg" style="max-width: 79%;" /></a></div>
+
+<div class="col-md-6 text-center">
+<video controls="" id="vid_text" playsinline="" poster="/sites/default/files/poster-frame-home-opt-2.jpg" preload="none" style="z-index:1"><source src="https://green-dns4.com/video_visit/CostaRica_Anthem_FINAL (450x253).webm" type="video/webm"></source> <source src="https://green-dns4.com/video_visit/CostaRica_Anthem_FINAL (450x253).mp4"></source> <source src="https://green-dns4.com/video_visit/CostaRica_Anthem_FINAL-_450x253_.ogg" type="video/ogg"></source></video>
+</div>
+</div>
+
+<center><!-- <div class="row">
+<div class="col-sm-12 text-center" id="success_story">
+<h2>Welcome to the official site of <strong>Costa Rica</strong></h2>
+</div>
+</div>
+
+<div style="text-align:center;">
+<p>Here, visitors enjoy lovely tropical beaches, grande adventures, the wonders of nature and scintillating culture - all the necessary components of an ideal vacation. No wonder thousands have made Costa Rica their top travel choice!</p>
+</div>
+
+<p>&nbsp;</p>
+
+<div class="row">
+<div class="col">&nbsp;</div>
+
+<div class="col-6 text-center mb-xs-48">
+<div class="modal-container mb16">
+<div class="play-button btn-modal large dark inline">&nbsp;</div>
+
+<div class="foundry_modal no-bg">
+<video controls=""><source src="https://green-dns4.com/video_visit/CostaRica_Anthem_FINAL (450x253).webm" type="video/webm" /> <source src="https://green-dns4.com/video_visit/CostaRica_Anthem_FINAL (450x253).mp4" /> <source src="https://green-dns4.com/video_visit/CostaRica_Anthem_FINAL-_450x253_.ogg" type="video/ogg" /></video>
+</div>
+</div>
+
+<div class="col">&nbsp;</div>
+</div>
+</div> -->
+<p> </p>
+</center>
+
+    
+<!-- END OUTPUT from 'themes/foundry/templates/field--field_paragraph_content.html.twig' -->
+
+
+    	
+    </div> 
+  </section>
+
+<!-- END OUTPUT from 'themes/foundry/templates/paragraph--paragraph_block.html.twig' -->
+
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--paragraph-block--default.html.twig
+   * paragraph--paragraph-block.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/paragraph--paragraph_block.html.twig' -->
+  <section class="paragraph paragraph--type--paragraph-block pb5 pt10 bg-secondary paragraph--view-mode--default" >
+    <div class="container   pos-vertical-center "> 
+    	
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--paragraph--field-paragraph-content--paragraph-block.html.twig
+   * field--paragraph--field-paragraph-content.html.twig
+   * field--paragraph--paragraph-block.html.twig
+   * field--field-paragraph-content.html.twig
+   * field--text-long.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/field--field_paragraph_content.html.twig' -->
+
+            <div class="row">
+<div class="col-sm-12 text-center" id="why-costa-rica">
+<h2>The <strong>Costa Rica</strong> Essentials</h2>
+
+<p>Essential Costa Rica is about promoting organic ingredients, unspoiled nature and authentic experiences.</p>
+</div>
+</div>
+
+<p> </p>
+
+<div class="col-md-12 col-sm-12 text-center">
+<div class="tabbed-content button-tabs">
+<ul class="tabs">
+	<li class="active">
+	<div class="tab-title"><span>ESSENTIALS</span></div>
+
+	<div class="tab-content">
+	<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People" style="padding: 0px 3px 0px 3px">
+	<div class="image-tile inner-title hover-reveal text-center"><img alt="Pic" src="/sites/default/files/slider_movil/Wildlife.webp" />
+	<div class="titleup">
+	<h3 class="c1c">Wildlife</h3>
+	</div>
+
+	<div class="title">
+	<p>Fill your calendar with the most wonderful natural and wildlife events.</p>
+
+	<p class="btn"><a href="/en/costa-rica/things-to-do/greatest-wildlife-spectacles">See More</a></p>
+	</div>
+	</div>
+	</div>
+
+	<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People" style="padding: 0px 3px 0px 3px">
+	<div class="image-tile inner-title hover-reveal text-center"><img alt="Pic" src="/sites/default/files/slider_movil/Sun.webp" />
+	<div class="titleup">
+	<h3 class="c1c">Sun and Beaches</h3>
+	</div>
+
+	<div class="title">
+	<p>Costa Rica occupies a privileged spot with beaches in the Caribbean Sea and the Pacific Ocean.</p>
+
+	<p class="btn"><a href="/en/costa-rica/things-to-do/sun-and-beaches">See More</a></p>
+	</div>
+	</div>
+	</div>
+
+	<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People" style="padding: 0px 3px 0px 3px">
+	<div class="image-tile inner-title hover-reveal text-center"><img alt="Pic" src="/sites/default/files/slider_movil/Adventure.webp" />
+	<div class="titleup">
+	<h3 class="c1c">Adventures</h3>
+	</div>
+
+	<div class="title">
+	<p>Costa Rica is a land of volcanoes, rainforests and cloud forests, huge waterfalls and mighty rivers.</p>
+
+	<p class="btn"><a href="/en/costa-rica/things-to-do/adventure">See More</a></p>
+	</div>
+	</div>
+	</div>
+	</div>
+	</li>
+	<li>
+	<div class="tab-title"><span>BALANCE</span></div>
+
+	<div class="tab-content">
+	<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People" style="padding: 0px 3px 0px 3px">
+	<div class="image-tile inner-title hover-reveal text-center"><img alt="Pic" src="/sites/default/files/slider_movil/Wellness.webp" />
+	<div class="titleup">
+	<h3 class="c1c">Wellness</h3>
+	</div>
+
+	<div class="title">
+	<p>If stress is a part of your daily life, Costa Rica is the cure.</p>
+
+	<p class="btn"><a href="/en/costa-rica/things-to-do/wellness">See More</a></p>
+	</div>
+	</div>
+	</div>
+
+	<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People" style="padding: 0px 3px 0px 3px">
+	<div class="image-tile inner-title hover-reveal text-center"><img alt="Pic" src="/sites/default/files/slider_movil/Family.webp" />
+	<div class="titleup">
+	<h3 class="c1c">Families</h3>
+	</div>
+
+	<div class="title">
+	<p>Costa Rica has a great place to experience nature’s wonders with your children; the country is a must for families!</p>
+
+	<p class="btn"><a href="/en/costa-rica/things-to-do/families">See More</a></p>
+	</div>
+	</div>
+	</div>
+
+	<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People" style="padding: 0px 3px 0px 3px">
+	<div class="image-tile inner-title hover-reveal text-center"><img alt="Pic" src="/sites/default/files/slider_movil/Sun.webp" />
+	<div class="titleup">
+	<h3 class="c1c">Sun and Beaches</h3>
+	</div>
+
+	<div class="title">
+	<p>Costa Rica occupies a privileged spot with beaches in the Caribbean Sea and the Pacific Ocean.</p>
+
+	<p class="btn"><a href="/en/costa-rica/things-to-do/sun-and-beaches">See More</a></p>
+	</div>
+	</div>
+	</div>
+	</div>
+	</li>
+	<li>
+	<div class="tab-title"><span>THRILL</span></div>
+
+	<div class="tab-content">
+	<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People" style="padding: 0px 3px 0px 3px">
+	<div class="image-tile inner-title hover-reveal text-center"><img alt="Pic" src="/sites/default/files/slider_movil/Adventure.webp" />
+	<div class="titleup">
+	<h3 class="c1c">Adventures</h3>
+	</div>
+
+	<div class="title">
+	<p>Costa Rica is a land of volcanoes, rainforests and cloud forests, huge waterfalls and mighty rivers.</p>
+
+	<p class="btn"><a href="/en/costa-rica/things-to-do/adventure">See More</a></p>
+	</div>
+	</div>
+	</div>
+
+	<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People" style="padding: 0px 3px 0px 3px">
+	<div class="image-tile inner-title hover-reveal text-center"><img alt="Pic" src="/sites/default/files/slider_movil/Ecoturism.webp" />
+	<div class="titleup">
+	<h3 class="c1c">Ecotourism</h3>
+	</div>
+
+	<div class="title">
+	<p>Costa Rica is considered one of the most bio-diverse regions in the world.</p>
+
+	<p class="btn"><a href="/en/costa-rica/things-to-do/ecoturism">See More</a></p>
+	</div>
+	</div>
+	</div>
+
+	<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People" style="padding: 0px 3px 0px 3px">
+	<div class="image-tile inner-title hover-reveal text-center"><img alt="Pic" src="/sites/default/files/slider_movil/Wildlife.webp" />
+	<div class="titleup">
+	<h3 class="c1c">Wildlife</h3>
+	</div>
+
+	<div class="title">
+	<p>Fill your calendar with the most wonderful natural and wildlife events.</p>
+
+	<p class="btn"><a href="/en/costa-rica/things-to-do/greatest-wildlife-spectacles">See More</a></p>
+	</div>
+	</div>
+	</div>
+	</div>
+	</li>
+	<li>
+	<div class="tab-title"><span>RECHARGE</span></div>
+
+	<div class="tab-content">
+	<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People" style="padding: 0px 3px 0px 3px">
+	<div class="image-tile inner-title hover-reveal text-center"><img alt="Pic" src="/sites/default/files/slider_movil/Cruise.webp" />
+	<div class="titleup">
+	<h3 class="c1c">Cruises</h3>
+	</div>
+
+	<div class="title">
+	<p>Costa Rica in English, means rich coast. Every cruise ship visiting Costa Rica understands why.</p>
+
+	<p class="btn"><a href="/en/costa-rica/things-to-do/cruises">See More</a></p>
+	</div>
+	</div>
+	</div>
+
+	<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People" style="padding: 0px 3px 0px 3px">
+	<div class="image-tile inner-title hover-reveal text-center"><img alt="Pic" src="/sites/default/files/slider_movil/Sun.webp" />
+	<div class="titleup">
+	<h3 class="c1c">Sun and Beaches</h3>
+	</div>
+
+	<div class="title">
+	<p>Costa Rica occupies a privileged spot with beaches in the Caribbean Sea and the Pacific Ocean.</p>
+
+	<p class="btn"><a href="/en/costa-rica/things-to-do/sun-and-beaches">See More</a></p>
+	</div>
+	</div>
+	</div>
+
+	<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People" style="padding: 0px 3px 0px 3px">
+	<div class="image-tile inner-title hover-reveal text-center"><img alt="Pic" src="/sites/default/files/slider_movil/Wellness.webp" />
+	<div class="titleup">
+	<h3 class="c1c">Wellness</h3>
+	</div>
+
+	<div class="title">
+	<p>If stress is a part of your daily life, Costa Rica is the cure.</p>
+
+	<p class="btn"><a href="/en/costa-rica/things-to-do/wellness">See More</a></p>
+	</div>
+	</div>
+	</div>
+	</div>
+	</li>
+	<li>
+	<div class="tab-title"><span>ALIVE</span></div>
+
+	<div class="tab-content">
+	<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People" style="padding: 0px 3px 0px 3px">
+	<div class="image-tile inner-title hover-reveal text-center"><img alt="Pic" src="/sites/default/files/slider_movil/Wildlife.webp" />
+	<div class="titleup">
+	<h3 class="c1c">Wildlife</h3>
+	</div>
+
+	<div class="title">
+	<p>Fill your calendar with the most wonderful natural and wildlife events.</p>
+
+	<p class="btn"><a href="/en/costa-rica/things-to-do/greatest-wildlife-spectacles">See More</a></p>
+	</div>
+	</div>
+	</div>
+
+	<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People" style="padding: 0px 3px 0px 3px">
+	<div class="image-tile inner-title hover-reveal text-center"><img alt="Pic" src="/sites/default/files/slider_movil/Adventure.webp" />
+	<div class="titleup">
+	<h3 class="c1c">Adventures</h3>
+	</div>
+
+	<div class="title">
+	<p>Costa Rica is a land of volcanoes, rainforests and cloud forests, huge waterfalls and mighty rivers.</p>
+
+	<p class="btn"><a href="/en/costa-rica/things-to-do/adventure">See More</a></p>
+	</div>
+	</div>
+	</div>
+
+	<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People" style="padding: 0px 3px 0px 3px">
+	<div class="image-tile inner-title hover-reveal text-center"><img alt="Pic" src="/sites/default/files/slider_movil/Ecoturism.webp" />
+	<div class="titleup">
+	<h3 class="c1c">Ecotourism</h3>
+	</div>
+
+	<div class="title">
+	<p>Costa Rica is considered one of the most bio-diverse regions in the world.</p>
+
+	<p class="btn"><a href="/en/costa-rica/things-to-do/ecoturism">See More</a></p>
+	</div>
+	</div>
+	</div>
+	</div>
+	</li>
+	<li>
+	<div class="tab-title"><span>CONNECT</span></div>
+
+	<div class="tab-content">
+	<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People" style="padding: 0px 3px 0px 3px">
+	<div class="image-tile inner-title hover-reveal text-center"><img alt="Pic" src="/sites/default/files/slider_movil/Family.webp" />
+	<div class="titleup">
+	<h3 class="c1c">Families</h3>
+	</div>
+
+	<div class="title">
+	<p>Costa Rica has a wholesome environment and is an excellent place for families.</p>
+
+	<p class="btn"><a href="/en/costa-rica/things-to-do/families">See More</a></p>
+	</div>
+	</div>
+	</div>
+
+	<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People" style="padding: 0px 3px 0px 3px">
+	<div class="image-tile inner-title hover-reveal text-center"><img alt="Pic" src="/sites/default/files/slider_movil/Culture.webp" />
+	<div class="titleup">
+	<h3 class="c1c">Culture</h3>
+	</div>
+
+	<div class="title">
+	<p>The richness of Costa Rica stems from the cultural diversity of its people.</p>
+
+	<p class="btn"><a href="/en/costa-rica/things-to-do/culture">See More</a></p>
+	</div>
+	</div>
+	</div>
+
+	<div class="col-md-4 col-sm-6 masonry-item project" data-filter="People" style="padding: 0px 3px 0px 3px">
+	<div class="image-tile inner-title hover-reveal text-center"><img alt="Pic" src="/sites/default/files/slider_movil/Weddings.webp" />
+	<div class="titleup">
+	<h3 class="c1c">Honeymoon &amp; Weddings</h3>
+	</div>
+
+	<div class="title">
+	<p>Costa Rica is waiting for you to live this experience.</p>
+
+	<p class="btn"><a href="/en/costa-rica/things-to-do/honeymoon-and-weddings">See More</a></p>
+	</div>
+	</div>
+	</div>
+	</div>
+	</li>
+</ul>
+</div>
+<!--end of button tabs--></div>
+
+    
+<!-- END OUTPUT from 'themes/foundry/templates/field--field_paragraph_content.html.twig' -->
+
+
+    	
+    </div> 
+  </section>
+
+<!-- END OUTPUT from 'themes/foundry/templates/paragraph--paragraph_block.html.twig' -->
+
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--paragraph-sliders-block--default.html.twig
+   * paragraph--paragraph-sliders-block.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/paragraph--paragraph_sliders_block.html.twig' -->
+    <section class="paragraph image-slider paragraph--type--paragraph-sliders-block cover fullscreen slider-all-controls controls-inside pb0 pt0 paragraph--view-mode--default" 
+	    	 data-arrows="true"     	 data-paging="true" 	data-timing="5000"
+	data-items="7"
+      >
+    	
+	  <ul class="slides">
+        
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--paragraph--field-paragraph-slider-item--paragraph-sliders-block.html.twig
+   * field--paragraph--field-paragraph-slider-item.html.twig
+   * field--paragraph--paragraph-sliders-block.html.twig
+   * field--field-paragraph-slider-item.html.twig
+   * field--entity-reference-revisions.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/field--field_paragraph_slider_item.html.twig' -->
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--paragraph-slider-item--default.html.twig
+   * paragraph--paragraph-slider-item.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/paragraph--paragraph_slider_item.html.twig' -->
+
+
+
+
+
+
+<li class="image-bg " 
+
+>
+
+
+
+  
+    
+      <div class="background-image-holder">
+
+       <img alt="background-image" src="/sites/default/files/banner-top-zonas/banner-top-puntarenas%20copy.webp" />
+
+      </div>
+
+    
+  
+
+
+  	
+
+    <div class="container  v-align-transform ">
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--paragraph--field-paragraph-content--paragraph-slider-item.html.twig
+   * field--paragraph--field-paragraph-content.html.twig
+   * field--paragraph--paragraph-slider-item.html.twig
+   * field--field-paragraph-content.html.twig
+   * field--text-long.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/field--field_paragraph_content.html.twig' -->
+
+            <div class="row">
+<div class="col-sm-12 text-center" style="background-color: rgb(0, 0, 0, 0.5); padding: 50px;">
+<center>
+<h2>Where to Go?</h2>
+
+<h2 class="uppercase mb8 c1" style="width:max-content;">Puntarenas</h2>
+</center>
+
+<p class="lead mb40">Located on the central Pacific coast, the Puntarenas region extends from Punta Conejo south to Puerto Caldera to the mouth of the Bongo River. The region’s rich coastline overlooks small islands, inlets, beaches and beautiful natural wonders. The port town of Puntarenas serves as the center of the region and is home port to a ferry that carries visitors over to the tip of the Nicoya Peninsula.</p>
+<a class="btn btn-lg btn-white mb0" href="/en/costa-rica/where-to-go/puntarenas">Explore</a></div>
+</div>
+
+    
+<!-- END OUTPUT from 'themes/foundry/templates/field--field_paragraph_content.html.twig' -->
+
+
+
+    </div>
+
+  
+  
+
+
+</li>
+
+
+<!-- END OUTPUT from 'themes/foundry/templates/paragraph--paragraph_slider_item.html.twig' -->
+
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--paragraph-slider-item--default.html.twig
+   * paragraph--paragraph-slider-item.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/paragraph--paragraph_slider_item.html.twig' -->
+
+
+
+
+
+
+<li class="image-bg " 
+
+>
+
+
+
+  
+    
+      <div class="background-image-holder">
+
+       <img alt="background-image" src="/sites/default/files/banner-top-zonas/banner-top-pacifico-sur%20copy.webp" />
+
+      </div>
+
+    
+  
+
+
+  	
+
+    <div class="container  v-align-transform ">
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--paragraph--field-paragraph-content--paragraph-slider-item.html.twig
+   * field--paragraph--field-paragraph-content.html.twig
+   * field--paragraph--paragraph-slider-item.html.twig
+   * field--field-paragraph-content.html.twig
+   * field--text-long.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/field--field_paragraph_content.html.twig' -->
+
+            <div class="row">
+<div class="col-sm-12 text-center" style="background-color: rgb(0, 0, 0, 0.5); padding: 50px;">
+<center>
+<h2>Where to Go?</h2>
+
+<h2 class="uppercase mb8 c2" style="width:max-content;">South Pacific</h2>
+</center>
+
+<p class="lead mb40">The combination of breath-taking white-sand beaches, sweeping mountain views and an ideal tropical climate has made Guanacaste one of Costa Rica’s most popular regions. It boasts many of the country’s popular beaches, including Playa del Coco, Playa Flamingo, Playa Conchal and the Papagayo Peninsula. By day visitors can challenge themselves with a surf lesson, cool off under a waterfall at Rincón de la Vieja National Park, discover the craters of an active volcano with the same name and more before enjoying the active nightlife in Tamarindo.</p>
+<a class="btn btn-lg btn-white mb0" href="/en/costa-rica/where-to-go/south-pacific">Explore</a></div>
+</div>
+
+    
+<!-- END OUTPUT from 'themes/foundry/templates/field--field_paragraph_content.html.twig' -->
+
+
+
+    </div>
+
+  
+  
+
+
+</li>
+
+
+<!-- END OUTPUT from 'themes/foundry/templates/paragraph--paragraph_slider_item.html.twig' -->
+
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--paragraph-slider-item--default.html.twig
+   * paragraph--paragraph-slider-item.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/paragraph--paragraph_slider_item.html.twig' -->
+
+
+
+
+
+
+<li class="image-bg " 
+
+>
+
+
+
+  
+    
+      <div class="background-image-holder">
+
+       <img alt="background-image" src="/sites/default/files/banner-top-zonas/banner-top-llanuras-del-norte%20copy.webp" />
+
+      </div>
+
+    
+  
+
+
+  	
+
+    <div class="container  v-align-transform ">
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--paragraph--field-paragraph-content--paragraph-slider-item.html.twig
+   * field--paragraph--field-paragraph-content.html.twig
+   * field--paragraph--paragraph-slider-item.html.twig
+   * field--field-paragraph-content.html.twig
+   * field--text-long.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/field--field_paragraph_content.html.twig' -->
+
+            <div class="row">
+<div class="col-sm-12 text-center" style="background-color: rgb(0, 0, 0, 0.5); padding: 50px;">
+<center>
+<h2>Where to Go?</h2>
+
+<h2 class="uppercase mb8 c1" style="width:max-content;">Northern Plains</h2>
+</center>
+
+<p class="lead mb40">Recognized as home of Arenal Volcano National Park, which boasts 75% of Costa Rica’s bird population, the Northern Plains present endless activities for visitors. Excursions range from hiking and waterfall rappelling to canopying and exploring via a hanging bridge tour. Those looking for activities on the water will find that Lake Arenal is an ideal location for canoeing, fishing and kite surfing.</p>
+<a class="btn btn-lg btn-white mb0" href="/en/costa-rica/where-to-go/northern-plains">Explore</a></div>
+</div>
+
+    
+<!-- END OUTPUT from 'themes/foundry/templates/field--field_paragraph_content.html.twig' -->
+
+
+
+    </div>
+
+  
+  
+
+
+</li>
+
+
+<!-- END OUTPUT from 'themes/foundry/templates/paragraph--paragraph_slider_item.html.twig' -->
+
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--paragraph-slider-item--default.html.twig
+   * paragraph--paragraph-slider-item.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/paragraph--paragraph_slider_item.html.twig' -->
+
+
+
+
+
+
+<li class="image-bg " 
+
+>
+
+
+
+  
+    
+      <div class="background-image-holder">
+
+       <img alt="background-image" src="/sites/default/files/banner-top-zonas/banner-top-valle-central%20copy.webp" />
+
+      </div>
+
+    
+  
+
+
+  	
+
+    <div class="container  v-align-transform ">
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--paragraph--field-paragraph-content--paragraph-slider-item.html.twig
+   * field--paragraph--field-paragraph-content.html.twig
+   * field--paragraph--paragraph-slider-item.html.twig
+   * field--field-paragraph-content.html.twig
+   * field--text-long.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/field--field_paragraph_content.html.twig' -->
+
+            <div class="row">
+<div class="col-sm-12 text-center" style="background-color: rgb(0, 0, 0, 0.5); padding: 50px;">
+<center>
+<h2>Where to Go?</h2>
+
+<h2 class="uppercase mb8 c1" style="width:max-content;">Central Valley</h2>
+</center>
+
+<p class="lead mb40">Those in search of cultural and natural attractions will find both in the Central Valley region. Home to the destination’s capital city, San José, many of Costa Rica’s most popular museums can be found in this urban setting including the Gold Museum, Jade Museum, National Museum and Children’s Museum, in addition to the architectural jewel of San José, the National Theatre.</p>
+<a class="btn btn-lg btn-white mb0" href="/en/costa-rica/where-to-go/central-valley">Explore</a></div>
+</div>
+
+    
+<!-- END OUTPUT from 'themes/foundry/templates/field--field_paragraph_content.html.twig' -->
+
+
+
+    </div>
+
+  
+  
+
+
+</li>
+
+
+<!-- END OUTPUT from 'themes/foundry/templates/paragraph--paragraph_slider_item.html.twig' -->
+
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--paragraph-slider-item--default.html.twig
+   * paragraph--paragraph-slider-item.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/paragraph--paragraph_slider_item.html.twig' -->
+
+
+
+
+
+
+<li class="image-bg " 
+
+>
+
+
+
+  
+    
+      <div class="background-image-holder">
+
+       <img alt="background-image" src="/sites/default/files/banner-top-zonas/banner-top-guanacaste%20copy.webp" />
+
+      </div>
+
+    
+  
+
+
+  	
+
+    <div class="container  v-align-transform ">
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--paragraph--field-paragraph-content--paragraph-slider-item.html.twig
+   * field--paragraph--field-paragraph-content.html.twig
+   * field--paragraph--paragraph-slider-item.html.twig
+   * field--field-paragraph-content.html.twig
+   * field--text-long.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/field--field_paragraph_content.html.twig' -->
+
+            <div class="row">
+<div class="col-sm-12 text-center" style="background-color: rgb(0, 0, 0, 0.5); padding: 50px;">
+<center>
+<h2>Where to Go?</h2>
+
+<h2 class="uppercase mb8 c3" style="width:max-content;">Guanacaste</h2>
+</center>
+
+<p class="lead mb40">The combination of breath-taking white-sand beaches, sweeping mountain views and an ideal tropical climate has made Guanacaste one of Costa Rica’s most popular regions. It boasts many of the country’s popular beaches, including Playa del Coco, Playa Flamingo, Playa Conchal and the Papagayo Peninsula. By day visitors can challenge themselves with a surf lesson, cool off under a waterfall at Rincón de la Vieja National Park, discover the craters of an active volcano with the same name and more before enjoying the active nightlife in Tamarindo.</p>
+<a class="btn btn-lg btn-white mb0" href="/en/costa-rica/where-to-go/guanacaste">Explore</a></div>
+</div>
+
+    
+<!-- END OUTPUT from 'themes/foundry/templates/field--field_paragraph_content.html.twig' -->
+
+
+
+    </div>
+
+  
+  
+
+
+</li>
+
+
+<!-- END OUTPUT from 'themes/foundry/templates/paragraph--paragraph_slider_item.html.twig' -->
+
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--paragraph-slider-item--default.html.twig
+   * paragraph--paragraph-slider-item.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/paragraph--paragraph_slider_item.html.twig' -->
+
+
+
+
+
+
+<li class="image-bg " 
+
+>
+
+
+
+  
+    
+      <div class="background-image-holder">
+
+       <img alt="background-image" src="/sites/default/files/banner-top-zonas/banner-top-pacifico-central%20copy.webp" />
+
+      </div>
+
+    
+  
+
+
+  	
+
+    <div class="container  v-align-transform ">
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--paragraph--field-paragraph-content--paragraph-slider-item.html.twig
+   * field--paragraph--field-paragraph-content.html.twig
+   * field--paragraph--paragraph-slider-item.html.twig
+   * field--field-paragraph-content.html.twig
+   * field--text-long.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/field--field_paragraph_content.html.twig' -->
+
+            <div class="row">
+<div class="col-sm-12 text-center" style="background-color: rgb(0, 0, 0, 0.5); padding: 50px;">
+<center>
+<h2>Where to Go?</h2>
+
+<h2 class="uppercase mb8 c1" style="width:max-content;">Central Pacific</h2>
+</center>
+
+<p class="lead mb40">Beautiful beaches, wildlife sanctuaries, lagoons, rivers and waterfalls make the Central Pacific region an ideal destination for visitors in search of variety. The region stretches from the city of Puntarenas to Dominical de Osa and is made up of some of Costa Rica’s most visited areas including Monteverde, Quepos, Jacó, Bahía Ballena and Manuel Antonio. The region’s climate creates a unique landscape that transitions from tropical wet forest to tropical forest to tropical dry forest, providing the opportunity to observe a wide range of plants and animals.</p>
+<a class="btn btn-lg btn-white mb0" href="/en/costa-rica/where-to-go/central-pacific">Explore</a></div>
+</div>
+
+    
+<!-- END OUTPUT from 'themes/foundry/templates/field--field_paragraph_content.html.twig' -->
+
+
+
+    </div>
+
+  
+  
+
+
+</li>
+
+
+<!-- END OUTPUT from 'themes/foundry/templates/paragraph--paragraph_slider_item.html.twig' -->
+
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--paragraph-slider-item--default.html.twig
+   * paragraph--paragraph-slider-item.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/paragraph--paragraph_slider_item.html.twig' -->
+
+
+
+
+
+
+<li class="image-bg " 
+
+>
+
+
+
+  
+    
+      <div class="background-image-holder">
+
+       <img alt="background-image" src="/sites/default/files/banner-top-zonas/banner-top-caribe%20copy.webp" />
+
+      </div>
+
+    
+  
+
+
+  	
+
+    <div class="container  v-align-transform ">
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--paragraph--field-paragraph-content--paragraph-slider-item.html.twig
+   * field--paragraph--field-paragraph-content.html.twig
+   * field--paragraph--paragraph-slider-item.html.twig
+   * field--field-paragraph-content.html.twig
+   * field--text-long.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/field--field_paragraph_content.html.twig' -->
+
+            <div class="row">
+<div class="col-sm-12 text-center" style="background-color: rgb(0, 0, 0, 0.5); padding: 50px;">
+<center>
+<h2>Where to Go?</h2>
+
+<h2 class="uppercase mb8 c1" style="width:max-content;">Caribbean</h2>
+</center>
+
+<p class="lead mb40">The diverse coastline of the Northern Caribbean region attracts anglers, naturists and water enthusiasts in search of unique experiences. The North Caribbean region is famous for its interconnected canals and for Tortuguero National Park, where visitors have the opportunity to witness green turtles nesting. Limón City, the largest city on the country’s Caribbean coast, is perched in the center of the coast. The Southern Caribbean boasts some great beaches and picturesque parks, which are complemented by the area’s inviting culture.</p>
+<a class="btn btn-lg btn-white mb0" href="/en/costa-rica/where-to-go/caribbean">Explore</a></div>
+</div>
+
+    
+<!-- END OUTPUT from 'themes/foundry/templates/field--field_paragraph_content.html.twig' -->
+
+
+
+    </div>
+
+  
+  
+
+
+</li>
+
+
+<!-- END OUTPUT from 'themes/foundry/templates/paragraph--paragraph_slider_item.html.twig' -->
+
+
+    
+<!-- END OUTPUT from 'themes/foundry/templates/field--field_paragraph_slider_item.html.twig' -->
+
+
+      </ul>
+
+      </section>
+
+<!-- END OUTPUT from 'themes/foundry/templates/paragraph--paragraph_sliders_block.html.twig' -->
+
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--paragraph-block--default.html.twig
+   * paragraph--paragraph-block.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/paragraph--paragraph_block.html.twig' -->
+  <section class="paragraph paragraph--type--paragraph-block pb0 bt0 paragraph--view-mode--default" >
+    <div class="container  "> 
+    	
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--paragraph--field-paragraph-content--paragraph-block.html.twig
+   * field--paragraph--field-paragraph-content.html.twig
+   * field--paragraph--paragraph-block.html.twig
+   * field--field-paragraph-content.html.twig
+   * field--text-long.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/field--field_paragraph_content.html.twig' -->
+
+            <div class="text-center" id="why-costa-rica">
+<h2>Planning your Trip to <strong>Costa Rica</strong></h2>
+</div>
+<style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+.grid-7{text-align:center;}
+@media (min-width: 961px){.bloque-8-p { width:12.5%; float: left; } }
+@media (max-width: 960px){.bloque-8-p { width:32.8%; float: left; } }
+@media (max-width: 640px){.bloque-8-p { width:49.5%; float: left; } }
+
+/*--><!]]>*/
+</style>
+<div class="grid-8 uk-vertical-align">
+<div class="bloque-8-p uk-text-center uk-vertical-align-top">
+<div id="planning-logox"><a href="/en/costa-rica/planning-your-trip/itineraries"><img alt="" onmouseout="this.src='/sites/default/files/iconos2022/itineraries1.svg'" onmouseover="this.src='/sites/default/files/iconos2022/itineraries2.svg'" src="/sites/default/files/iconos2022/itineraries1.svg" style="width: 100px;" /></a>
+<p style="font-size:14px; text-transform:capitalize;"><a href="/en/costa-rica/planning-your-trip/itineraries" style="color:grey !important">Suggested itineraries </a></p>
+<a href="/en/costa-rica/planning-your-trip/itineraries" style="color:grey !important"> </a></div>
+</div>
+
+<div class="bloque-8-p  uk-text-center uk-vertical-align-top">
+<div id="planning-logox"><a href="/en/costa-rica/planning-your-trip/accommodations"><img alt="" onmouseout="this.src='/sites/default/files/iconos2022/acommodations1.svg'" onmouseover="this.src='/sites/default/files/iconos2022/acommodations2.svg'" src="/sites/default/files/iconos2022/acommodations1.svg" style="width: 100px;" /> </a>
+
+<p style="font-size:14px; text-transform:capitalize;"><a href="/en/costa-rica/planning-your-trip/accommodations" style="color:grey !important">Accommodations </a></p>
+<a href="/en/costa-rica/planning-your-trip/accommodations" style="color:grey !important"> </a></div>
+</div>
+
+<div class="bloque-8-p  uk-text-center uk-vertical-align-top">
+<div id="planning-logox"><a href="/en/costa-rica/planning-your-trip/rent-a-cars/all"><img alt="" onmouseout="this.src='/sites/default/files/iconos2022/rentacar1.svg'" onmouseover="this.src='/sites/default/files/iconos2022/rentacar2.svg'" src="/sites/default/files/iconos2022/rentacar1.svg" style="width: 100px;" /> </a>
+
+<p style="font-size:14px; text-transform:capitalize;"><a href="/en/costa-rica/planning-your-trip/rent-a-cars/all" style="color:grey !important">Rent A Car </a></p>
+<a href="/en/costa-rica/planning-your-trip/rent-a-cars/all" style="color:grey !important"> </a></div>
+</div>
+
+<div class="bloque-8-p  uk-text-center uk-vertical-align-top">
+<div id="planning-logox"><a href="/en/costa-rica/planning-your-trip/airlines"><img alt="" onmouseout="this.src='/sites/default/files/iconos2022/airlines1.svg'" onmouseover="this.src='/sites/default/files/iconos2022/airlines2.svg'" src="/sites/default/files/iconos2022/airlines1.svg" style="width: 100px;" /> </a>
+
+<p style="font-size:14px; text-transform:capitalize;"><a href="/en/costa-rica/planning-your-trip/airlines" style="color:grey !important">Airlines </a></p>
+<a href="/en/costa-rica/planning-your-trip/airlines"> </a></div>
+</div>
+
+<div class="bloque-8-p  uk-text-center uk-vertical-align-top">
+<div id="planning-logox"><a href="/en/costa-rica/planning-your-trip/restaurants/all"><img alt="" onmouseout="this.src='/sites/default/files/iconos2022/restaurants1.svg'" onmouseover="this.src='/sites/default/files/iconos2022/restaurants2.svg'" src="/sites/default/files/iconos2022/restaurants1.svg" style="width: 100px;" /> </a>
+
+<p style="font-size:14px; text-transform:capitalize;"><a href="/en/costa-rica/planning-your-trip/restaurants/all" style="color:grey !important">Restaurants </a></p>
+<a href="/en/costa-rica/planning-your-trip/restaurants/all"> </a></div>
+</div>
+
+<div class="bloque-8-p  uk-text-center uk-vertical-align-top">
+<div id="planning-logox"><a href="/en/costa-rica/planning-your-trip/other-activities"><img alt="" onmouseout="this.src='/sites/default/files/iconos2022/otheract1.svg'" onmouseover="this.src='/sites/default/files/iconos2022/otheract2.svg'" src="/sites/default/files/iconos2022/otheract1.svg" style="width: 100px;" /> </a>
+
+<p style="font-size:14px; text-transform:capitalize; color: grey"><a href="/en/costa-rica/planning-your-trip/other-activities" style="color:grey !important">Other Activities </a></p>
+<a href="/en/costa-rica/planning-your-trip/other-activities"> </a></div>
+</div>
+
+<div class="bloque-8-p  uk-text-center uk-vertical-align-top">
+<div id="planning-logox"><a href="/en/costa-rica/planning-your-trip/travel-agencies"><img alt="" onmouseout="this.src='/sites/default/files/iconos2022/localtravel1.svg'" onmouseover="this.src='/sites/default/files/iconos2022/localtravel2.svg'" src="/sites/default/files/iconos2022/localtravel1.svg" style="width: 100px;" /> </a>
+
+<p style="font-size:14px; text-transform:capitalize;"><a href="/en/costa-rica/planning-your-trip/travel-agencies" style="color:grey !important">Local Travel Agencies </a></p>
+<a href="/en/costa-rica/planning-your-trip/travel-agencies"> </a></div>
+</div>
+
+<div class="bloque-8-p  uk-text-center uk-vertical-align-top">
+<div id="planning-logox"><a href="/en/costa-rica/planning-your-trip/tips"><img alt="" onmouseout="this.src='/sites/default/files/iconos2022/traveltips1.svg'" onmouseover="this.src='/sites/default/files/iconos2022/traveltips2.svg'" src="/sites/default/files/iconos2022/traveltips1.svg" style="width: 100px;" /> </a>
+
+<p style="font-size:14px; text-transform:capitalize;"><a href="/en/costa-rica/planning-your-trip/tips" style="color:grey !important">Travel Tips </a></p>
+<a href="/en/costa-rica/planning-your-trip/tips"> </a></div>
+</div>
+</div>
+
+    
+<!-- END OUTPUT from 'themes/foundry/templates/field--field_paragraph_content.html.twig' -->
+
+
+    	
+    </div> 
+  </section>
+
+<!-- END OUTPUT from 'themes/foundry/templates/paragraph--paragraph_block.html.twig' -->
+
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--paragraph-block--default.html.twig
+   * paragraph--paragraph-block.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/paragraph--paragraph_block.html.twig' -->
+  <section class="paragraph paragraph--type--paragraph-block projects p0 bg-dark paragraph--view-mode--default" >
+     
+    	
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--paragraph--field-paragraph-content--paragraph-block.html.twig
+   * field--paragraph--field-paragraph-content.html.twig
+   * field--paragraph--paragraph-block.html.twig
+   * field--field-paragraph-content.html.twig
+   * field--text-long.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/field--field_paragraph_content.html.twig' -->
+
+            <div class="row masonry-loader pt80">
+<div class="col-sm-12 text-center">
+<div class="spinner"> </div>
+</div>
+</div>
+
+<div class="row masonry masonryFlyIn">
+<div class="col-sm-6 masonry-item project" data-filter="People">
+<div class="image-tile hover-tile text-center"><img alt="image" class="background-image" src="/sites/default/files/home-2023/home-1-de-3.webp" />
+<div class="hover-state">
+<h3 class="uppercase mb8 c1"><a href="/en/costa-rica/blog"><strong>Costa Rica Blog</strong></a></h3>
+
+<h6 class="uppercase"><a href="/en/costa-rica/blog">Latest news and Articles about Costa Rica</a></h6>
+</div>
+</div>
+<!--end of hover tile--></div>
+
+<div class="col-sm-6 masonry-item project" data-filter="People">
+<div class="image-tile hover-tile text-center"><img alt="image" class="background-image" src="/sites/default/files/home-2023/home-2-de-3.webp" />
+<div class="hover-state">
+<h3 class="uppercase mb8 c2"><a href="/en/costa-rica/things-to-do/ecoturism/national-parks"><strong>Costa Rica National Parks</strong></a></h3>
+
+<h6 class="uppercase"><a href="/en/costa-rica/things-to-do/ecoturism/national-parks">Explore our world famous national parks!</a></h6>
+</div>
+</div>
+<!--end of hover tile--></div>
+
+<div class="col-sm-6 masonry-item project" data-filter="People">
+<div class="image-tile hover-tile text-center"><img alt="image" class="background-image" src="/sites/default/files/home-2023/home-3-de-3.webp" />
+<div class="hover-state">
+<h3 class="uppercase mb8 c3"><a href="/en/costa-rica/planning-your-trip/tips"><strong>Costa Rica's traveler tips</strong></a></h3>
+
+<h6 class="uppercase"><a href="/en/costa-rica/planning-your-trip/tips">First hand information for your dream vacaction!</a></h6>
+</div>
+</div>
+<!--end of hover tile--></div>
+</div>
+
+    
+<!-- END OUTPUT from 'themes/foundry/templates/field--field_paragraph_content.html.twig' -->
+
+
+    	
+     
+  </section>
+
+<!-- END OUTPUT from 'themes/foundry/templates/paragraph--paragraph_block.html.twig' -->
+
+
+            
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'paragraph' -->
+<!-- FILE NAME SUGGESTIONS:
+   * paragraph--paragraph-block--default.html.twig
+   * paragraph--paragraph-block.html.twig
+   * paragraph--default.html.twig
+   * paragraph.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/paragraph--paragraph_block.html.twig' -->
+  <section class="paragraph paragraph--type--paragraph-block bg-secondary pb0 pt10 paragraph--view-mode--default" >
+     
+    	
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--paragraph--field-paragraph-content--paragraph-block.html.twig
+   * field--paragraph--field-paragraph-content.html.twig
+   * field--paragraph--paragraph-block.html.twig
+   * field--field-paragraph-content.html.twig
+   * field--text-long.html.twig
+   * field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/field--field_paragraph_content.html.twig' -->
+
+            <div class="row">
+<div class="col-sm-12 text-center" id="why-costa-rica">
+<h2><strong>#EssentialCostaRica</strong></h2>
+
+<h2>Share your experience</h2>
+</div>
+</div>
+
+<div class="row">
+<div class="col-sm-12 text-center">
+<h2><a href="https://www.instagram.com/visit_costarica/" style="color: grey !important" target="_blank"><i class="ti-instagram">‌</i></a>    <a href="https://www.pinterest.com/visit_costarica/" style="color: grey !important" target="_blank"><i class="ti-pinterest">‌</i></a>    <a href="https://www.facebook.com/visitcostarica" style="color: grey !important" target="_blank"><i class="ti-facebook ">‌</i></a>    <a href="https://twitter.com/Visit_CostaRica" style="color: grey !important" target="_blank"><i class="ti-twitter-alt">‌</i></a>    <a href="https://www.youtube.com/user/VisitCostaRicaVideos" style="color: grey !important" target="_blank"><i class="ti-youtube">‌</i></a>    <a href="https://www.tiktok.com/@visitcostarica" style="color: grey !important" target="_blank"><i class="fa-brands fa-tiktok">‌</i></a>   </h2>
+</div>
+</div>
+
+    
+<!-- END OUTPUT from 'themes/foundry/templates/field--field_paragraph_content.html.twig' -->
+
+
+    	
+     
+  </section>
+
+<!-- END OUTPUT from 'themes/foundry/templates/paragraph--paragraph_block.html.twig' -->
+
+
+    
+<!-- END OUTPUT from 'themes/foundry/templates/field--field_paragraphs.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/foundry/templates/node--full-page.html.twig' -->
+
+
+
+<!-- END OUTPUT from 'themes/bootstrap/templates/block/block--system.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/bootstrap/templates/system/region.html.twig' -->
+
+
+        
+              </div>
+
+  </div>
+
+
+<footer class="footer-1 bg-dark" role="contentinfo">
+  <div class=" container">
+	<!-- postscript -->
+	
+    	<div class="row">
+	  
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--footer.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/bootstrap/templates/system/region.html.twig' -->
+  <div class="region region-footer">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--footer-block.html.twig
+   * block--footer-1.html.twig
+   * block--block-content--e999eb05-6baa-47a5-8455-9ca9f2eab0d9.html.twig
+   * block--block-content.html.twig
+   * block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/block--footer_block.html.twig' -->
+
+  
+
+  <div class="block-inner">
+    
+    
+  </div>
+  <footer id="block-footer-1" class="block block-block-content block-block-contente999eb05-6baa-47a5-8455-9ca9f2eab0d9 clearfix"> 
+          
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--block-content--body--footer-block.html.twig
+   * field--block-content--body.html.twig
+   * field--block-content--footer-block.html.twig
+   * field--body.html.twig
+   * field--text-with-summary.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/field.html.twig' -->
+
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><style media="screen">
+<!--/*--><![CDATA[/* ><!--*/
+
+    .uk-nav > li > a {
+    padding: 0px;
+}
+.email{
+    padding: 10px;
+text-align: center;
+}
+.border{
+    border-left: solid 1px white;
+    border-right: solid 1px white;
+}
+
+.centrar{
+    margin-left: 20%;
+}
+li > a:hover {
+    color: #64A70B !important;
+}
+.hover:hover{
+    color: #64A70B !important;
+}
+
+@media only screen and (max-width: 600px) {
+
+    .centrar{
+        margin-left: 0px;
+    }
+}
+
+
+/*--><!]]>*/
+</style>
+<script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+
+
+jQuery(document).ready(function ($) {
+    var fecha = new Date();
+var ano = fecha.getFullYear();
+
+    $("#yearActual").text(ano);
+});
+
+//--><!]]>
+</script>
+<div class="footer-fondo" style="z-index: 98;">
+    <div class="uk-container uk-container-center">
+        <div class="row uk-margin ">
+            <div class="col-xs-12 col-sm-6 col-md-3 border">
+                <ul class="uk-nav">
+                <li><a href="https://www.visitcostarica.com/en/">Home</a></li>
+                <li><a href="https://www.visitcostarica.com/en/costa-rica">Costa Rica </a></li>
+                <li><a href="https://www.visitcostarica.com/en/costa-rica/blog">Costa Rica Blog </a></li>
+                </ul>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3 border">
+                <ul class="uk-nav">
+                <li><a href="https://www.visitcostarica.com/en/costa-rica/things-to-do">Things To Do</a></li>
+                <li><a href="https://www.visitcostarica.com/en/costa-rica/where-to-go">Where to Go </a></li>
+                <li><a href="https://www.visitcostarica.com/en/costa-rica/planning-your-trip">Planning your trip </a></li>
+                </ul>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3 border">
+                <ul class="uk-nav">
+                <li><a href="https://www.visitcostarica.com/en/costa-rica/national-parks">National Parks </a></li>
+                <li><a href="https://www.visitcostarica.com/en/costa-rica/climate">Climate</a></li>
+                <li><a href="https://www.visitcostarica.com/en/costa-rica/FAQs">FAQ's </a></li>
+
+                </ul>
+            </div>
+            <div class="col-xs-12 col-sm-6 col-md-3 border">
+                <ul class="uk-nav">
+                <li><a href="https://www.visitcostarica.com/en/costa-rica/more/contact-us">Contact Us</a></li>
+<br /><br />
+                </ul>
+            </div>
+
+        </div>
+        <br /><br />
+        <div class="row uk-margin">
+<div class="centrar">
+    <a href="https://www.ict.go.cr/en/" target="_blank">
+    <div class="col-md-4">
+        <div class="col-sm-2 col-md-4">
+            <img alt="" src="/sites/default/files/promocional-footer.png" />
+        </div>
+        <div class="col-sm-4 col-md-8 ">
+            <p class="hover">Costa Rica Tourism Board, Institutional Site</p>
+        </div>
+
+    </div>
+</a>
+
+
+
+
+    <div class="col-md-4">
+<a href="https://costaricacc.com/" target="_blank">
+        <div class="col-sm-4 col-md-8 ">
+            <p class="hover" style="text-align: right;">Costa Rica Convention Center, Promotional Site</p>
+
+        </div>
+        <div class="col-sm-2 col-md-4">
+            <img alt="" src="/sites/default/files/crcc-footer.png" />
+        </div>
+</a>
+    </div>
+</div>
+
+</div>
+
+        </div>
+        <div class="row uk-margin">
+            <div class="uk-width-1-1 uk-text-center"><!-- ICONOS SOCIALES -->
+                                    <p></p>
+                    <p style="display: inline-flex;">
+                        <span id="icon-facebook">  <a href="https://www.facebook.com/visitcostarica" target="_blank" class="social-footer"><i class="fa fa-facebook fa-2x"></i></a> </span>    
+                          <a id="icon-twiter" href="https://twitter.com/Visit_CostaRica" target="_blank" class="social-footer"><i class="fa fa-twitter fa-2x"></i></a>     
+                          <a id="icon-pinterest" href="https://www.pinterest.com/costaricatb/" target="_blank" class="social-footer"><i class="fa fa-pinterest fa-2x"></i></a>     
+                          <a id="icon-instagram" href="https://www.instagram.com/visit_costarica/" target="_blank" class="social-footer"><i class="fa fa-instagram fa-2x"></i></a>     
+                          <a id="icon-youtube" href="https://www.youtube.com/user/VisitCostaRicaVideos" target="_blank" class="social-footer"><i class="fa fa-youtube fa-2x"></i></a>    
+                         <a id="icon-tiktok" href="https://www.tiktok.com/@visitcostarica" target="_blank" class="social-footer"><i class="fab fa-tiktok  fa-2x"></i></a>
+                    </p>
+
+<!-- <i class='fab fa-tiktok fa-spin fa-pulse fa-3x'></i>-->
+
+                    <p>© <span id="yearActual"></span> Costa Rica Tourism Board | <a href="https://www.visitcostarica.com/terms-and-conditions" class="hover">Terms of Use</a> | <a href="https://www.visitcostarica.com/privacy-policy" class="hover">Privacy Policy</a> | <a href="#" class="hover">Site Map</a></p>
+                </div>
+        </div>
+    </div>
+
+    <style>
+<!--/*--><![CDATA[/* ><!--*/
+
+            @media (max-width:992px) {
+        	.col-md-4 { text-align: center; }
+            p.hover{text-align: center!important;}
+        }
+
+    
+/*--><!]]>*/
+</style>
+
+<script>
+<!--//--><![CDATA[// ><!--
+
+jQuery(document).ready(function ($) {
+window.addEventListener("scroll", function(event) {
+    var top = this.scrollY,
+        left =this.scrollX;
+        $(".region-top-right").addClass("margintop1");
+if (top >200) {
+  $(".region-top-right").removeClass("margintop1");
+  $("#section-header").addClass("menu2019");
+  $(".region-navigation").addClass("topless");
+  $(".region-top-right").addClass("topless2");
+  $(".logo-desktop").addClass("icon2019");
+  $("#section-header").removeClass("menu2019New");
+  $(".logo-desktop").removeClass("icon2019New");
+}else{
+  $(".region-top-right").addClass("margintop1");
+  $("#section-header").removeClass("menu2019");
+  $(".region-navigation").removeClass("topless");
+  $(".region-top-right").removeClass("topless2");
+  $("#section-header").addClass("menu2019New");
+  $(".logo-desktop").removeClass("icon2019");
+  $(".logo-desktop").addClass("icon2019New");
+}
+}, false);
+});
+
+//--><!]]>
+</script>
+
+
+
+</div>
+      
+<!-- END OUTPUT from 'themes/foundry/templates/field.html.twig' -->
+
+
+      </footer>
+
+
+
+
+
+
+
+<!-- END OUTPUT from 'themes/foundry/templates/block--footer_block.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/bootstrap/templates/system/region.html.twig' -->
+
+
+	</div>
+	  </div>
+</footer>
+
+  <div class=" container">
+  <div class="row">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'region' -->
+<!-- FILE NAME SUGGESTIONS:
+   * region--footer-second.html.twig
+   x region.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/bootstrap/templates/system/region.html.twig' -->
+  <div class="region region-footer-second">
+    
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'block' -->
+<!-- FILE NAME SUGGESTIONS:
+   * block--basic.html.twig
+   * block--footer-2.html.twig
+   * block--block-content--08f7b3f4-2259-4d53-b78f-9ebcfe55b057.html.twig
+   * block--block-content.html.twig
+   x block.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/block.html.twig' -->
+<div id="block-footer-2" class="block block-block-content block-block-content08f7b3f4-2259-4d53-b78f-9ebcfe55b057 clearfix">
+<div class="block-inner">
+  
+    
+
+      
+
+<!-- THEME DEBUG -->
+<!-- THEME HOOK: 'field' -->
+<!-- FILE NAME SUGGESTIONS:
+   * field--block-content--body--basic.html.twig
+   * field--block-content--body.html.twig
+   * field--block-content--basic.html.twig
+   * field--body.html.twig
+   * field--text-with-summary.html.twig
+   x field.html.twig
+-->
+<!-- BEGIN OUTPUT from 'themes/foundry/templates/field.html.twig' -->
+
+            <div class="field field--name-body field--type-text-with-summary field--label-hidden field--item"><p style="padding: 30px; text-align:center;"><a href="https://www.ict.go.cr"><img alt="Logo" data-src="/sites/default/files/visit/Logos/trilogia-logos-2018-eng.png" src="/sites/default/files/visit/Logos/trilogia-logos-2018-eng.png" /></a></p>
+
+<div style="width:1px; height:1px; position:fixed; overflow:hidden;"><iframe allowfullscreen="" frameborder="0" height="1" src="https://www.youtube.com/embed/yK4VPjM4oxE?rel=0&amp;autoplay=1&amp;mute=1" width="1"></iframe></div>
+</div>
+      
+<!-- END OUTPUT from 'themes/foundry/templates/field.html.twig' -->
+
+
+  </div>
+</div>
+
+
+<!-- END OUTPUT from 'themes/foundry/templates/block.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'themes/bootstrap/templates/system/region.html.twig' -->
+
+
+  </div>
+  </div>
+
+
+<!-- END OUTPUT from 'themes/foundry/templates/page--fullwidth.html.twig' -->
+
+
+  </div>
+
+<!-- END OUTPUT from 'core/modules/system/templates/off-canvas-page-wrapper.html.twig' -->
+
+
+    <script>
+function init() {
+var imgDefer = document.getElementsByTagName('img');
+for (var i=0; i<imgDefer.length; i++) {
+if(imgDefer[i].getAttribute('data-src')) {
+imgDefer[i].setAttribute('src',imgDefer[i].getAttribute('data-src'));
+} } }
+window.onload = init;
+</script>
+<script></script>
+
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"en\/","currentPath":"node\/44","currentPathIsAdmin":false,"isFront":true,"currentLanguage":"en"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"google_analytics":{"account":"G-PFC8ZWS2RY","trackOutbound":true,"trackMailto":true,"trackTel":true,"trackDownload":true,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":1},"bootstrap":{"forms_has_error_value_toggle":1,"modal_animation":1,"modal_backdrop":"true","modal_focus_input":1,"modal_keyboard":1,"modal_select_text":1,"modal_show":1,"modal_size":"","popover_enabled":1,"popover_animation":1,"popover_auto_close":1,"popover_container":"body","popover_content":"","popover_delay":"0","popover_html":0,"popover_placement":"right","popover_selector":"","popover_title":"","popover_trigger":"click","tooltip_enabled":1,"tooltip_animation":1,"tooltip_container":"body","tooltip_delay":"0","tooltip_html":0,"tooltip_placement":"auto left","tooltip_selector":"","tooltip_trigger":"hover"},"lang_dropdown":{"lang-dropdown-form":{"key":"lang-dropdown-form"}},"form_placeholder":{"include":"#contact-message-feedback-form *,#user-login-form *,#user-pass *,#user-register-form *,#block-foundry-simplenewssubscription *,#block-simplenewssubscription *,.mail-list-signup *","exclude":"","required_indicator":"leave"},"ajaxTrustedUrl":{"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"user":{"uid":0,"permissionsHash":"ad0cc0e257ffda929e44dba2f8148b0130678867cf7dd42305769bdd8752893b"}}</script>
+<script src="/sites/default/files/js/js_sXa4nMs9Y8Y0YGu4jJINQFCrZsCYKTIEvaDvtU4xS40.js"></script>
+<script src="https://static.addtoany.com/menu/page.js" async></script>
+<script src="/sites/default/files/js/js_7g90xh_VkSuqS_2e8ygui-0YxcDG0QeLZWY_kCeYCi8.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@3.4.1/dist/js/bootstrap.min.js" integrity="sha256-nuL8/2cJ5NDSSwnKD8VqreErSWHtnEP9E7AySL+1ev4=" crossorigin="anonymous"></script>
+<script src="/sites/default/files/js/js_cCsPR-EQhhx21Zy7wV9eNBZj7SnQ2eksnHlGilNTR7c.js"></script>
+
+  </body>
+</html>
+
+<!-- END OUTPUT from 'themes/foundry/templates/html.html.twig' -->
+
